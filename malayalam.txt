@@ -6,3 +6,10 @@ director : Dominic Arun
 
 release year : 2025
 
+2.
+
+name : Pet Detective
+
+director : Praneesh Vijayan
+
+release year : 2025
